@@ -38,5 +38,5 @@
 </ul>
 
 
-
+<a href="https://github.com/rahul-masal/Windows-Privilege-Escalation/blob/main/Gaining-a-Foothold.md">Gaining a Foothold</a>
  
